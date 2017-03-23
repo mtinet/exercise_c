@@ -8,7 +8,7 @@ int main(void) {
 	int array[NUMBER];	// array[0] ~ array[4] : 총 5개가 들어갈 수 있는 크기의 배열 선언
 	max = 0;
 	index = 0;
-	printf("숫자 다섯개를 넣어주세요. \n");
+	printf("최대값을 찾기 위해 숫자 다섯개를 넣어주세요. \n");
 	
 	for(i = 0; i < NUMBER; i++) {
 		scanf("%d", &array[i]);
@@ -18,7 +18,9 @@ int main(void) {
 		}
 	} 
 	printf("가장 큰 값은 %d입니다. 그리고 %d번째에 있습니다. \n", max, index + 1);
+	printf("\n");
 	
+	printf("최소값을 찾기 위해 숫자 다섯개를 넣어주세요. \n");
 	min = INT_MAX;
 
 	for(i = 0; i < NUMBER; i++) {
