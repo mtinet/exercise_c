@@ -12,6 +12,7 @@ int print(int a) {
 		printf("\n");		
 	}
 }
+
 int main(void) {
 	int a;
 	printf("피라미드를 만들 숫자크기를 입력하세요 : ");
