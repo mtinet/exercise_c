@@ -9,6 +9,7 @@ int main(void) {
 	while(input[count] != '\0') {
 		count++;
 	}
-	printf("입력된 문자는 %d입니다.", count);
+	printf("입력된 문자의 길이는 %d입니다.\n", count);
+	printf("입력한 문자열 : %s", input) ;
 	return 0;	 
 } 
