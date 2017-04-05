@@ -19,4 +19,5 @@
 - sumInt.c - 더할 정수의 갯수를 입력하고 해당 갯수만큼 정수를 입력하면 더해주는 프로그램  
 - understandPointer.c - 변수(i), 변수의 주소(&i), 포인터가 가리키는 주소(p), 포인터가 가리키는 변수의 값(*p)을 이해하기 위한 프로그램
 - usestrcmp.c - string라이브러리에 포함되어 있는 strcmpen함수를 사용하는 방법(비교) 
+- usestrcpy.c - string라이브러리에 포함되어 있는 strcpy함수를 사용하는 방법(대치) 
 - usestrlen.c - string라이브러리에 포함되어 있는 strlen함수를 사용하는 방법(길이)
