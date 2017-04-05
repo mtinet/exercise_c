@@ -7,6 +7,4 @@ int main(void) {
 	strcpy(result, input);
 	printf("문자열 복사 :  %s\n", result);
 	return 0;
-	
-	
 }
