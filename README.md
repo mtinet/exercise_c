@@ -21,4 +21,5 @@
 - usestrcmp.c - string라이브러리에 포함되어 있는 strcmpen함수를 사용하는 방법(비교) 
 - usestrcpy.c - string라이브러리에 포함되어 있는 strcpy함수를 사용하는 방법(대치) 
 - usestrlen.c - string라이브러리에 포함되어 있는 strlen함수를 사용하는 방법(길이)
-- usestruct.c - 구조체(struct)를 만들고 활용하는 방법
+- usestruct.c - 구조체(struct)를 만들고 활용하는 방법  
+- usestruct1.c - 입력을 받아 구조체를 활용하는 방법  
