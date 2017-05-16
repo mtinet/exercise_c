@@ -10,8 +10,9 @@
 - countDate.c - 1월 1일부터 입력한날까지의 차이를 구하는 프로그램   
 - countMoney.c - 금액을 입력하면 그 금액에 맞는 화폐의 갯수를 세 주는 프로그램  
 - distanceCheck.c - 구조체를 사용하여 평면좌표 상의 두 점 사이의 거리를 계산하는 프로그램  
-- fileFindWord.c - 파일에서 찾고자 하는 단어의 위치를 찾아주는 예제  
-- fileInput.c - txt파일을 읽는 예제  
+- dynnamicMemory.c - 동적메모리를 사용해보는 예제  
+- fileFindWord.c - 파일에서 찾고자 하는 단어의 위치를 찾아주는 예제   
+- fileInput.c - txt파일을 읽는 예제  
 - fileOutput.c - txt파일을 만들고 'HELLO'라는 문자를 찍는 예제  
 - minuteAdd.c - 현재시간과 더할시간(분)을 입력하면 더해진 시간을 알려주는 프로그램  
 - numberPiramid.c - 숫자를 입력하면 그 숫자만큼 반복하며 피라미드를 그려주는 프로그램  
